@@ -44,4 +44,4 @@ AKStream.Next is a video management platform for surveillance, streaming integra
 
 This repository distributes official release packages and public product documentation. Refer to the website for software use, feature licensing, and support terms. Public repository access does not grant rights to the product source code or other assets.
 
-<!-- documentation-version: 1.0.0.169; wiki-commit: 90302b22635feaf4d2fbd80a5ef93ca180094f8e -->
+<!-- documentation-version: 1.0.0.169; wiki-commit: fe3bb31237b4cdc78802ce96a84e7d44d169fa72 -->
